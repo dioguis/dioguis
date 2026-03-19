@@ -5,11 +5,11 @@
 
 - 🌱 No cotidiano, utilizo principalmente **Power BI, Python, SQL e DAX**
 
-- 📫 How to reach me **diogoalcelino@gmail.com**
+- 📫 Para me encontrar, pode me chamar pelo e-mail **diogoalcelino@gmail.com**
 
 - 📄 Saiba mais sobre minhas experiências acessando meu linkedin: [www.linkedin.com/in/diogo-alcelino-959690212](www.linkedin.com/in/diogo-alcelino-959690212)
 
-- ⚡ Fun fact **Não consigo começar bem minha rotina de trabalho se não tomar um café coado e assistir pelo menos um vídeo de kpop de manhã.**
+- ⚡ Fun fact: **Não consigo começar bem minha rotina de trabalho se não tomar um café coado acompanhado de pelo menos um vídeo de kpop de manhã.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
