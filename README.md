@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Diogo Alcelino</h1>
+<h1 align="center">Oie 👋, me chamo Diogo Alcelino</h1>
 <h3 align="center">Sou estudante de ADS na CESAR School e formado em Ciências Contábeis pela Universidade Federal de Pernambuco.</h3>
 
 - 🔭 Atualmente trabalho no **Grupo Moura, como Analista de Riscos**
 
-- 🌱 Trabalho principalmente com **Power BI, Python, SQL e DAXI**
+- 🌱 No cotidiano, utilizo principalmente **Power BI, Python, SQL e DAX**
 
 - 📫 How to reach me **diogoalcelino@gmail.com**
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/diogoalcelino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diogoalcelino" height="30" width="40" /></a>
-<a href="https://instagram.com/dioguis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dioguis" height="30" width="40" /></a>
+<a href="https://instagram.com/dioguis_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dioguis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
