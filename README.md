@@ -1,5 +1,5 @@
-<h1 align="left">Oie 👋, me chamo Diogo Alcelino</h1>
-<h3 align="left">Sou estudante de ADS na CESAR School e formado em Ciências Contábeis pela Universidade Federal de Pernambuco.</h3>
+<h1 align="center">Oie 👋, me chamo Diogo Alcelino</h1>
+<h3 align="center">Sou estudante de ADS na CESAR School e formado em Ciências Contábeis pela Universidade Federal de Pernambuco.</h3>
 
 - 🔭 Atualmente trabalho no **Grupo Moura, como Analista de Riscos**
 
