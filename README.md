@@ -10,7 +10,7 @@
 
 - 📄 Saiba mais sobre minhas experiências profissionais acessando meu linkedin: [www.linkedin.com/in/diogo-alcelino-959690212](www.linkedin.com/in/diogo-alcelino-959690212)
 
-- ⚡ Fun fact: **Não consigo começar bem minha rotina de trabalho se não tomar um café coado acompanhado de pelo menos um vídeo de kpop de manhã.**
+- ⚡ Fun fact: **Não consigo começar bem minha rotina de trabalho se não tomar um café acompanhado de pelo menos um vídeo de kpop de manhã.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
