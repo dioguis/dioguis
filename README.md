@@ -2,7 +2,7 @@
 <h3 align="center">Sou estudante de ADS na CESAR School e formado em Ciências Contábeis pela Universidade Federal de Pernambuco.</h3>
 
 
-- 🔭 Atualmente trabalho no **Grupo Moura, como Analista de Riscos**
+- 🔭 Atualmente trabalho no **Grupo Moura, como Analista de Dados & Riscos**
 
 - 🌱 No cotidiano, utilizo principalmente **Power BI, Python, SQL e DAX**
 
